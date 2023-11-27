@@ -1,5 +1,6 @@
 
-# PyTorch Implementation of Adaptive Baseline Sampling
+# PyTorch Implementation of [Adaptive Baseline Sampling](ABS_FULL_PAPER_WITH_APPENDIX.pdf)
+## [Paper PDF](ABS_Paper.pdf), [Supplementary Material PDF](ABS_Appendix.pdf)
 
 
 <p align="center">
